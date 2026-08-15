@@ -1,5 +1,5 @@
 title: "Spectre & Meltdown: How CPU Cache Can Leak Information"
-date: 2026-08-15
+date: 2026-08-14 12:00:00 +0530
 categories: [Cybersecurity, Hardware]
 tags: [spectre, meltdown, cpu, side-channel]
 ---
